@@ -1,0 +1,22 @@
+.main {
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  cursor: pointer;
+}
+
+.wrapper > .typo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.main > .input {
+  background-color: aliceblue;
+  width: 50%;
+  border-radius: 6px;
+}
